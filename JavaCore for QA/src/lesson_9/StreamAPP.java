@@ -36,17 +36,17 @@ public class StreamAPP {
                 .collect(Collectors.toList());
     }
 
-    public static List<String> Task_2(List<Person> persons) {
+    public static List<String> Task_2(List<Person> persons, int limit) {
         return   persons.stream()
                 .sorted((o1, o2) -> o2.getCources().size() - o1.getCources().size())
-                .limit(3)
+                .limit(limit)
                 .map(s -> s.getName() + ":" + s.getCources().size())
                 .collect(Collectors.toList());
     }
 
-    public static List<String> Task_3(List<Person> persons) {
+    public static List<String> Task_3(List<Person> persons, Person.Course prof) {
         return  persons.stream()
-               .filter(pers -> pers.getCources().contains(Person.Course.TESTER))
+               .filter(pers -> pers.getCources().contains(prof))
                .map(s -> s.getName() + ":" + s.getCources().toString())
                .collect(Collectors.toList());
     }
@@ -74,12 +74,14 @@ public class StreamAPP {
         System.out.println(" ");
 
     System.out.println("Задание № 2");
-        Task_2(persons).forEach(System.out::println);
+        Task_2(persons, 3).forEach(System.out::println);
 
         System.out.println(" ");
 
      System.out.println("Задание № 3");
-        Task_3(persons).forEach(System.out::println);
+        Task_3(persons, Person.Course.MANAGER).forEach(System.out::println);
+
+        Task_3(persons, Person.Course.TESTER).forEach(System.out::println);
 
        Set<Person> uniqPosition = new HashSet<>();
         uniqPosition.addAll(persons);
