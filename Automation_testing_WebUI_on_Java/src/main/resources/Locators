@@ -1,0 +1,85 @@
+WebDriver("C:\\Program Files (x86)\\Google\\Chrome\\ChromeDriver\\chromedriver.exe)
+
+                            LOCATORS
+
+         Выполнение входа на сайт https://www.livejournal.com/
+
+Клик на кнопку Вход                 //nav[@class="s-nav-actions"]/ul/li[2]/a[1]
+Ввод имени в поле ввода имени       //input[@id="user"]
+Ввод пароля в поле ввода пароля     //input[@id="lj_loginwidget_password"]
+Клик на кнопку Войти            //button[@class="b-loginform-btn b-loginform-btn--login b-loginform-btn--auth b-loginform-btn--center"]
+
+
+                            Создание записи
+
+Клик на кнопку Создание записи              //nav[@role="presentation"]/ul/li[4]/a
+Создание заголовка записи                   //div[@class="root-0-2-135"]/div[2]/textarea
+Создание текста записи                      //div[@class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"]
+Создание тега                               //div[@class="tags-0-2-140 alignment-0-2-136"]/div/span/span/input
+Клик на кнопку настроить и опубликовать     /html/body/div[6]/footer/div/div/div[2]/div[2]/button
+Клик на кнопку опубликовать                 //span[text() = 'Опубликовать']
+Возврат на главную страницу                 //div[@class="s-logo"]/a/span
+
+
+                            Открытие новости в разделе ЖЖ Рекомендует
+
+Клик на новость                 //div[@class="lj-card"]/article/a
+Клик на кнопку подписаться      //div[@class="j-user-subscribe-btn"]/a
+Возврат на главную страницу    //div[@class="s-logo"]/a/span
+
+
+                            Поиск блогов и статей
+
+Ввод поискового запроса в поле Поиск   //html[@id="js"]/body/div[2]/div[3]/div[1]/section[4]/div/div/form/div/input
+Клик на кнопку поиск                  //div[@class="search__control-wrap"]/button
+Возврат на главную страницу          //div[@class="s-logo"]/a/span
+
+
+                            Открытие записи в Рейтинг записей
+
+Клик на запись                  //html[@id="js"]/body/div[2]/div[3]/div[1]/section[2]/div/div/div[1]/div[1]/div/div/article/a
+Клик на кнопку подписаться      //div[@class="aentry-head__wrapper"]/div/a
+Возврат на главную страницу     //div[@class="s-logo"]/a/span
+
+
+                            Открытие раздела Новые лица
+
+Клик на раздел Новые лица      //html[@id="j s"]/body/div[2]/div[3]/div/div/div/div/ul/li/a
+Клик на новость                //*[@id="js"]/body/div[2]/div[3]/div[1]/section[1]/div/div[2]/div[16]/div/div/div/article/a
+Написание комментария к записи  //html[@id="js"]/body/div[3]/div[3]/div[1]/article/section[1]/div[1]/div[1]/div[2]/div/figure[2]/div/div/div/form/div/textarea
+Клик на кнопку добавить        //html[@id="js"]/body/div[3]/div[3]/div[1]/article/section[1]/div[1]/div[1]/div[2]/div/figure[2]/div/div/div/form/button
+Возврат на главную страницу    //div[@class="s-logo"]/a/span
+
+
+                      Открытие раздела Медиа в ЖЖ
+
+Клик на раздел Медиа в ЖЖ       //html/body/div[2]/div[3]/div/div/div/div/ul/li[2]/a
+Клик на медиа                   //html[@id="js"]/body/div[2]/div[3]/div/section/div/div[2]/div[16]/div/div/div/article/a
+Клик на кнопку подписаться      //html[@id="js"]/body/div[3]/div[3]/div[1]/article/section[1]/div[1]/div[1]/header/div[1]/dl/dd/div/div/div/a
+Возврат на главную страницу     //div[@class="s-logo"]/a/span
+
+
+                    Присоединение к авторам Живого Журнала
+
+Открыть раздел #Дело было осенью    //html[@id="js"]/body/div[2]/div[3]/div/div/div/div/ul/li[3]/a
+Клик на кнопку Присоединится    //html[@id="js"]/body/div[2]/div[3]/div/div[3]/div/a
+Возврат на главную страницу     //div[@class="s-logo"]/a/span
+
+
+                        Открытие раздела Путешествия
+
+Переход на страницу Путешествия     //html[@id="js"]/body/div[2]/div[3]/div/div/div/div/ul/li[4]/a
+
+
+                        Открытие подраздела Архитектура
+
+Переход на страницу Архитектура     //html[@id="js"]/body/div[2]/div[3]/div/div[3]/div//a
+
+
+                    Открытие подраздела IT
+
+Переход на страницу IT              //html[@id="js"]/body/div[2]/div[3]/div/div[3]/div//a
+
+                        Открытие подраздела Компьютеры
+
+Переход на страницу Компьютеры      //html[@id="js"]/body/div[2]/div[3]/div/div[3]/div//a[4]

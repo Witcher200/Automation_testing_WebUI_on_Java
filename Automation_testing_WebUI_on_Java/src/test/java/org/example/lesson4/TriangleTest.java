@@ -38,7 +38,6 @@ void sqTriangle1() throws Triangle.NotTriangleException  {
 
 @Test
 @DisplayName("Test Exceptions 1")
-
 void shouldThrowException1() {
 	Throwable exception = assertThrows(IllegalArgumentException.class, ()
 			-> { Triangle.SqTriangle(-1,2,2) ;
