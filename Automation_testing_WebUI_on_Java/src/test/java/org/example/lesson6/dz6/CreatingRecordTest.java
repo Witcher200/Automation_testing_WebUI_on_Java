@@ -8,12 +8,10 @@ public class CreatingRecordTest extends AbstractPageTest{
 
 	  public static WebDriver driver;
 
-	  public static void setDriver(WebDriver driver) {
-			CreatingRecordTest.driver = driver;
-	  }
+	  public static void setDriver(WebDriver driver) {CreatingRecordTest.driver=driver;}
 
 	  @Test
-	  public void CreateRecordTest() {
+	  public void CreatingRecordTest() {
 			CreatingRecord creatingRecord = new CreatingRecord(getDriver());
 			creatingRecord
 				.click_on_create_post()
@@ -21,8 +19,7 @@ public class CreatingRecordTest extends AbstractPageTest{
 				.click_creating_post_text()
 				.click_creating_post_tag()
 				.click_Click_to_setup_and_publish()
-				.click_click_on_publish()
 				.click_return_to_main_page();
-			Assertions.assertEquals("2", getDriver().getCurrentUrl());
+			Assertions.assertEquals("18", getDriver().getCurrentUrl());
 	  }
 }

@@ -5,125 +5,131 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87a1095f-c165-41a4-bebe-a0452745c3cb" name="Changes" comment="Auto_testing_WebUI+on_java">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_23_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_jndi_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_quickstart_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_11_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_toolchain_jetty_jakarta_servlet_api_5_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_2_0_2_beta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_testing_WebUI_on_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/AbstractPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/CreatingRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/Joining_the_authors_LiveJournal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/Open_Media_section_in_LJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/Open_section_Travel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/Opening_entry_in_Ranking_of_entries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/Opening_news_in_LJ_recommends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/Opening_of_section_New_Faces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson6/dz6/Search_blogs_and_article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Locators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson5/AbstractTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson5/ErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson5/LessonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson5/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/AbstractPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/CreatingRecordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/Joining_the_authors_LiveJournalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/LoginPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/MainPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/Open_Media_section_in_LJTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/Open_section_TravelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/Opening_entry_in_Ranking_of_entriesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/Opening_news_in_LJ_recommendsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/Opening_of_section_New_FacesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/Search_blogs_and_articleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation_testing_WebUI_on_Java2/Automation_testing_WebUI_on_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation_testing_WebUI_on_Java2/Automation_testing_WebUI_on_Java/Automation_testing_WebUI_on_Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/org_example_lesson6_dz6_in_Automation_testing_WebUI_on_Java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/CreatingRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/Joining_the_authors_LiveJournal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/Open_Media_section_in_LJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/Open_section_Travel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/Opening_entry_in_Ranking_of_entries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/Opening_news_in_LJ_recommends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/Opening_of_section_New_Faces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/dz7/Search_blogs_and_article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/AbstractPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/CreatingRecordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/Joining_the_authors_LiveJournalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/Open_Media_section_in_LJTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/Open_section_TravelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/Opening_entry_in_Ranking_of_entriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/Opening_news_in_LJ_recommendsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/Opening_of_section_New_FacesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson7/dz7/Search_blogs_and_articleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_82.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_auto_common_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dev_failsafe_failsafe_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_60_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_60_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_60_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_60_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_84_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_logs_1_19_0_alpha.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_common_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_19_0_alpha.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_19_0_alpha.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_19_0_alpha.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_ous_jtoml_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_12_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_12_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_jndi_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_quickstart_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_11_0_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_toolchain_jetty_jakarta_servlet_api_5_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_2_0_2_beta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v105_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v106_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v107_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson1/dz1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson2/dz2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson3/dz3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/logback.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/logback.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/lesson4/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/TriangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jav_Level_1_4/Java_lessons_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Jav_Level_1_4/dfgsdfgsdf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/resorcis/test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/Lessons_4/RunClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/Lessons_4/Words.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/Lessons_4/phonebook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/DailyForecast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/Day.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/Headline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/Maximum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/Minimum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/Night.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/OkHttpPogoda_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/Temperature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_7/Weather.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_8/WeatherSQLlite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lesson_9/StreamAPP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_1/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_1/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_1/RunClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_1/Team.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_1/barrier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_2/DZ_lesson_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_3/Apple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_3/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_3/ChangeArr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_3/Fruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_3/Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_3/Run_class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_3/TClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_5/AppData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_5/RunClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaCore for QA/src/lessons_6/OkHttpPogoda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_lesson_7/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_lesson_7/FeedingApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_lesson_7/Plate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_lessons8/Cell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_lessons8/Food.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_lessons8/GameSnake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_lessons8/Poison.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_lessons8/Snake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_level_1/Java_lessons_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_level_1/Java_level_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_level_1/src/HomeWorkApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java_level_1_2 [Java_lessons_2]/src/HomeWorkApp2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_5/lesson_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesson_6/Lesson_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lessons_3/Java_lesson_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_testing_WebUI_on_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_testing_WebUI_on_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/CreatingRecordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson6/dz6/CreatingRecordTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,27 +169,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/java/Automation_testing_WebUI_on_Java/src/test/java/org/example/lesson6&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/java/Automation_testing_WebUI_on_Java/src/test/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "last_directory_selection": "C:/java/Automation_testing_WebUI_on_Java/src/test/java/org/example/lesson6",
+    "last_opened_file_path": "C:/java/Automation_testing_WebUI_on_Java/src/test/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.lesson6.dz6" />
@@ -202,30 +208,23 @@
       <recent name="C:\java\Automation_testing_WebUI_on_Java\src\test\java\org\example\lesson4" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.lesson7.dz7" />
       <recent name="org.example.lesson6.dz6" />
       <recent name="org.example.llesson6.dz6.MainPage" />
       <recent name="org.example.lesson4" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.lesson7.dz7" />
       <recent name="org.example.lesson6.dz6" />
       <recent name="org.example.llesson6.dz6" />
       <recent name="org.example.lesson5" />
       <recent name="org.example.lesson4" />
-      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.lesson7.dz7" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.org.example.lesson6.dz6 in Automation_testing_WebUI_on_Javazz">
-    <configuration name="CreatingRecordTest and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Automation_testing_WebUI_on_Java" />
-      <option name="TEST_OBJECT" value="pattern" />
-      <patterns>
-        <pattern testClass="org.example.lesson6.dz6.CreatingRecordTest" />
-        <pattern testClass="org.example.lesson6.dz6.RegistrationTest" />
-      </patterns>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="CreatingRecordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automation_testing_WebUI_on_Java" />
       <extension name="coverage">
@@ -241,51 +240,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatingRecordTest.CreateRecordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CreatingRecordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automation_testing_WebUI_on_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lesson6.dz6.View_entries_in_category_TopTestTest" />
+          <option name="PATTERN" value="org.example.lesson7.dz7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.lesson6.dz6" />
-      <option name="MAIN_CLASS_NAME" value="org.example.lesson6.dz6.CreatingRecordTest" />
-      <option name="METHOD_NAME" value="CreateRecordTest" />
+      <option name="PACKAGE_NAME" value="org.example.lesson7.dz7" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson7.dz7.CreatingRecordTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Live_Jornal_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_testing_WebUI_on_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson7.dz7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson7.dz7" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson7.dz7.Live_Jornal_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Live_Jornal_Test.Click_on_the_Login_button" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_testing_WebUI_on_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson7.dz7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson7.dz7" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson7.dz7.Live_Jornal_Test" />
+      <option name="METHOD_NAME" value="Click_on_the_Login_button" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageTest.MainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Live_Jornal_Test.name_input" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Automation_testing_WebUI_on_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lesson6.dz6.View_entries_in_category_TopTestTest" />
+          <option name="PATTERN" value="org.example.lesson7.dz7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.lesson6.dz6" />
-      <option name="MAIN_CLASS_NAME" value="org.example.lesson6.dz6.MainPageTest" />
-      <option name="METHOD_NAME" value="MainPageTest" />
+      <option name="PACKAGE_NAME" value="org.example.lesson7.dz7" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson7.dz7.Live_Jornal_Test" />
+      <option name="METHOD_NAME" value="name_input" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Open_section_TravelTest and 7 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Automation_testing_WebUI_on_Java" />
-      <option name="TEST_OBJECT" value="pattern" />
-      <patterns>
-        <pattern testClass="org.example.lesson6.dz6.Open_section_TravelTest" />
-        <pattern testClass="org.example.lesson6.dz6.LoginPageTest" />
-        <pattern testClass="org.example.lesson6.dz6.Opening_entry_in_Ranking_of_entriesTest" />
-        <pattern testClass="org.example.lesson6.dz6.CreatingRecordTest" />
-        <pattern testClass="org.example.lesson6.dz6.Search_blogs_and_articleTest" />
-        <pattern testClass="org.example.lesson6.dz6.Opening_of_section_New_FacesTest" />
-        <pattern testClass="org.example.lesson6.dz6.MainPageTest" />
-        <pattern testClass="org.example.lesson6.dz6.Opening_news_in_LJ_recommendsTest" />
-      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -309,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Live_Jornal_Test" />
+        <item itemvalue="JUnit.Live_Jornal_Test.name_input" />
+        <item itemvalue="JUnit.Live_Jornal_Test.Click_on_the_Login_button" />
+        <item itemvalue="JUnit.CreatingRecordTest (1)" />
         <item itemvalue="JUnit.CreatingRecordTest" />
-        <item itemvalue="JUnit.CreatingRecordTest and 1 more" />
-        <item itemvalue="JUnit.CreatingRecordTest.CreateRecordTest" />
-        <item itemvalue="JUnit.MainPageTest.MainPageTest" />
-        <item itemvalue="JUnit.Open_section_TravelTest and 7 more" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669463151630</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Auto_testing_WebUI+on_java">
+      <created>1670297761538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670297761539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
